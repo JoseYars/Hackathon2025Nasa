@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 # Cargar las variables de entorno desde el archivo .env
 load_dotenv()
 
-# Configurar la aplicación Flask y habilitar CORS
+# Configurar la aplicación Flask y habilitar CORS para React
 app = Flask(__name__)
 CORS(app)
 
@@ -48,9 +48,9 @@ def get_db_connection():
 
 @app.route("/")
 def index():
+    """Endpoint raíz para verificar que la API está funcionando."""
     return jsonify({"status": "API funcionando correctamente"})
 
-# Endpoint 1: Obtener un artículo COMPLETO por su ID
 @app.route("/api/articles/<int:article_id>", methods=['GET'])
 def get_article_by_id(article_id):
     """Obtiene todos los datos de un artículo específico."""
@@ -61,7 +61,7 @@ def get_article_by_id(article_id):
     try:
         cur = conn.cursor()
         query = """
-            SELECT id, key_words, title, author, pub_year, abstract, related_articles, summary_sentence
+            SELECT id, title, author, pub_year, abstract, key_words, related_articles, summary_sentence
             FROM articles
             WHERE id = %s;
         """
@@ -83,7 +83,6 @@ def get_article_by_id(article_id):
         if conn:
             conn.close()
 
-# Endpoint 2: Realizar una búsqueda y consultar a Gemini 💎
 @app.route("/api/search", methods=['POST'])
 def search_with_gemini():
     """Recibe una búsqueda, crea un prompt para Gemini y devuelve su respuesta."""
@@ -111,11 +110,10 @@ def search_with_gemini():
         return jsonify({"error": f"Ocurrió un error al contactar a Gemini: {e}"}), 503
 
 
-# --- FUNCIÓN AUXILIAR PARA OBTENER CAMPOS ESPECÍFICOS ---
+# --- FUNCIÓN AUXILIAR Y ENDPOINTS ESPECÍFICOS POR CAMPO ---
 
 def get_field_for_article(article_id, field_name):
     """Función genérica para obtener un solo campo de un artículo."""
-    # Lista blanca de campos permitidos para evitar inyección SQL
     allowed_fields = ["title", "author", "pub_year", "abstract", "key_words", "related_articles", "summary_sentence"]
     if field_name not in allowed_fields:
         return jsonify({"error": "Campo no válido"}), 400
@@ -126,14 +124,12 @@ def get_field_for_article(article_id, field_name):
     
     try:
         cur = conn.cursor()
-        # Construimos la consulta de forma segura
         query = f"SELECT {field_name} FROM articles WHERE id = %s;"
         cur.execute(query, (article_id,))
         data = cur.fetchone()
         cur.close()
 
         if data:
-            # Devolvemos el dato en un JSON con el nombre del campo como clave
             return jsonify({field_name: data[0]})
         else:
             return jsonify({"error": "Artículo no encontrado"}), 404
@@ -142,8 +138,6 @@ def get_field_for_article(article_id, field_name):
     finally:
         if conn:
             conn.close()
-
-# --- ENDPOINTS ESPECÍFICOS POR CAMPO ---
 
 @app.route("/api/articles/<int:article_id>/title", methods=['GET'])
 def get_article_title(article_id):
@@ -173,7 +167,10 @@ def get_related_articles(article_id):
 def get_article_summary(article_id):
     return get_field_for_article(article_id, "summary_sentence")
 
-# --- INICIAR LA APLICACIÓN ---
+
+# --- INICIAR LA APLICACIÓN (PARA DESARROLLO LOCAL) ---
 
 if __name__ == '__main__':
+    # Esta sección solo se usa cuando ejecutas `python app.py` directamente.
+    # Gunicorn no la utiliza en producción.
     app.run(debug=True, port=5000)
