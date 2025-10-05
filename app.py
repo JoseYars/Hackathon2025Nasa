@@ -173,6 +173,9 @@ def get_related_articles(article_id):
 def get_article_summary(article_id):
     return get_field_for_article(article_id, "summary_sentence")
 
+@app.route("/api/articles/<int:article_id>/related", methods=['GET'])
+def get_related_articles(article_id):
+    return get_field_for_article(article_id, "related_articles")
 
 # --- INICIAR LA APLICACIÓN ---
 
