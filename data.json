@@ -1,0 +1,442 @@
+[
+  {
+    "título": "Efectos de la microgravedad en la expresión génica de plantas espaciales",
+    "autor": "Dr. Alex Chen",
+    "año de publicación": 2022,
+    "keywords": ["microgravedad", "genética", "Arabidopsis"],
+    "resultados": "Se observó una regulación a la baja en genes relacionados con la respuesta al estrés gravitacional y una sobreexpresión de genes vinculados al crecimiento celular en las plantas de Arabidopsis thaliana cultivadas en microgravedad.",
+    "abstract": "Este estudio investiga los cambios en la expresión génica de Arabidopsis thaliana bajo condiciones de microgravedad simulada. Utilizando secuenciación de ARN, se analizaron los perfiles de transcripción de plantas cultivadas en un clinostato rotacional. Los resultados indican alteraciones significativas en las vías metabólicas relacionadas con la pared celular y la respuesta hormonal, proporcionando información clave sobre la adaptación de las plantas a entornos extraterrestres.",
+    "artículos relacionados —grafo": [
+      "La respuesta de la raíz en Arabidopsis a la gravedad alterada",
+      "Perfiles proteómicos de plantas en la Estación Espacial Internacional"
+    ],
+    "hipótesis": "La microgravedad altera significativamente el perfil de expresión génica en Arabidopsis thaliana, afectando principalmente a los genes responsables del gravitropismo y el desarrollo celular.",
+    "metodología": "Cultivo de plántulas de Arabidopsis thaliana en un clinostato 2D para simular microgravedad, seguido de extracción de ARN y análisis de secuenciación de próxima generación (NGS) para comparar los perfiles transcripcionales con un grupo de control en gravedad 1g.",
+    "Frase de resumen": "La ausencia de gravedad modifica la 'programación' genética de las plantas, favoreciendo el crecimiento sobre las respuestas al estrés.",
+    "link artículo —": "https://doi.org/10.1234/spacegenetics.2022.001",
+    "glosario de términos": {
+      "microgravedad": "Condición en la que la fuerza de gravedad es muy débil, como la experimentada en órbita.",
+      "genética": "Estudio de los genes, la variación genética y la herencia en los organismos.",
+      "Arabidopsis": "Género de plantas pequeñas con flores, comúnmente utilizadas como organismo modelo en biología vegetal."
+    },
+    "link a imagenes": "C:\\Users\\DOMI2\\Desktop\\KnowledgeEngine\\Nasa_Biology_Knowledge_Engine\\Nasa_KnowledgeEngine\\src\\assets\\FotoImage.jpg"
+  },
+  {
+    "título": "Impacto de la radiación cósmica en la salud ósea de los astronautas",
+    "autor": "Dra. Sofía Rivas",
+    "año de publicación": 2021,
+    "keywords": ["radiación", "salud ósea", "osteoporosis"],
+    "resultados": "La exposición prolongada a niveles de radiación cósmica simulada aceleró la pérdida de densidad mineral ósea en modelos animales, similar a los efectos de la osteoporosis inducida por la edad.",
+    "abstract": "La salud ósea es una preocupación primordial para los vuelos espaciales de larga duración. Este trabajo evalúa el impacto de la radiación cósmica galáctica (GCR) simulada sobre la estructura y densidad ósea en roedores. Los resultados muestran un aumento en la actividad de los osteoclastos y una disminución en la de los osteoblastos, lo que conduce a una pérdida ósea significativa. Estos hallazgos subrayan la necesidad de desarrollar contramedidas efectivas.",
+    "artículos relacionados —grafo": [
+      "Efectos de la microgravedad en la densidad ósea",
+      "Terapias farmacológicas para la osteoporosis inducida por el espacio"
+    ],
+    "hipótesis": "La exposición crónica a la radiación cósmica induce un desequilibrio en el remodelado óseo, promoviendo una pérdida neta de masa ósea en los astronautas.",
+    "metodología": "Exposición de un grupo de ratones a un haz de partículas cargadas de alta energía para simular la radiación cósmica. Se realizaron análisis de microtomografía computarizada (micro-CT) y análisis histológicos de los fémures para cuantificar los cambios en la densidad y microarquitectura ósea.",
+    "Frase de resumen": "La radiación espacial debilita los huesos al alterar el equilibrio natural de su regeneración.",
+    "link artículo —": "https://doi.org/10.5678/cosmicbone.2021.002",
+    "glosario de términos": {
+      "radiación": "Emisión o transmisión de energía en forma de ondas o partículas a través del espacio.",
+      "salud ósea": "Estado del tejido óseo, caracterizado por su densidad, estructura y resistencia.",
+      "osteoporosis": "Enfermedad que causa que los huesos se debiliten y se vuelvan quebradizos."
+    },
+    "link a imagenes": "C:\\Users\\DOMI2\\Desktop\\KnowledgeEngine\\Nasa_Biology_Knowledge_Engine\\Nasa_KnowledgeEngine\\src\\assets\\FotoImage.jpg"
+  },
+  {
+    "título": "Microbioma humano en el espacio: un análisis de la microbiota intestinal",
+    "autor": "Dr. Kenji Tanaka",
+    "año de publicación": 2023,
+    "keywords": ["microbioma", "salud intestinal", "microgravedad"],
+    "resultados": "Se identificó una disminución en la diversidad de la microbiota intestinal y un aumento en la proporción de Firmicutes a Bacteroidetes en astronautas después de una misión de 6 meses en la ISS.",
+    "abstract": "El microbioma intestinal juega un papel crucial en la salud humana. Este estudio longitudinal analiza los cambios en la composición de la microbiota intestinal de 10 astronautas antes, durante y después de una misión espacial de larga duración. Los datos de secuenciación del gen 16S rRNA revelan una disbiosis significativa durante el vuelo espacial, que se correlaciona con cambios en los metabolitos inmunes. La diversidad microbiana tendió a volver a los niveles iniciales después del regreso a la Tierra.",
+    "artículos relacionados —grafo": [
+      "El sistema inmune en el espacio",
+      "Dieta y nutrición para misiones espaciales"
+    ],
+    "hipótesis": "El entorno espacial, incluyendo la microgravedad, la dieta y el estrés, induce cambios predecibles y reversibles en la composición y función de la microbiota intestinal humana.",
+    "metodología": "Recolección de muestras fecales de astronautas en múltiples puntos de tiempo. Extracción de ADN de las muestras y secuenciación del gen 16S rRNA para determinar la composición taxonómica. Análisis bioinformático para comparar la diversidad alfa y beta entre las diferentes fases de la misión.",
+    "Frase de resumen": "Los viajes espaciales alteran la comunidad de microbios en el intestino, pero esta se recupera al volver a la Tierra.",
+    "link artículo —": "https://doi.org/10.9101/gutmicrobiome.2023.003",
+    "glosario de términos": {
+      "microbioma": "Conjunto de microorganismos (bacterias, virus, etc.) que residen en un entorno particular, como el cuerpo humano.",
+      "salud intestinal": "Estado de equilibrio funcional y estructural del tracto gastrointestinal.",
+      "microgravedad": "Condición de gravedad muy débil."
+    },
+    "link a imagenes": "C:\\Users\\DOMI2\\Desktop\\KnowledgeEngine\\Nasa_Biology_Knowledge_Engine\\Nasa_KnowledgeEngine\\src\\assets\\FotoImage.jpg"
+  },
+  {
+    "título": "Evaluación del rendimiento cognitivo en un entorno de aislamiento",
+    "autor": "Dra. Jessica Lee",
+    "año de publicación": 2020,
+    "keywords": ["psicología espacial", "aislamiento", "rendimiento cognitivo"],
+    "resultados": "Los participantes en un entorno de aislamiento y confinamiento análogo a una misión espacial mostraron una disminución en la velocidad de procesamiento y la memoria de trabajo después de 30 días, aunque las funciones ejecutivas superiores se mantuvieron estables.",
+    "abstract": "El aislamiento y el confinamiento son factores de estrés inherentes a las misiones espaciales. Este estudio utilizó una batería de pruebas neurocognitivas para evaluar el rendimiento de seis individuos en una estación de investigación antártica durante 60 días. Se observaron déficits en tareas que requerían atención sostenida y velocidad de respuesta, mientras que la capacidad de resolución de problemas complejos no se vio afectada. Los resultados sugieren una adaptación diferencial de las funciones cognitivas al aislamiento.",
+    "artículos relacionados —grafo": [
+      "Dinámicas de grupo en misiones de larga duración",
+      "El impacto del ciclo de sueño alterado en astronautas"
+    ],
+    "hipótesis": "El aislamiento prolongado en un entorno confinado afecta negativamente a las funciones cognitivas básicas (atención, velocidad de procesamiento) más que a las funciones ejecutivas complejas.",
+    "metodología": "Estudio longitudinal con seis participantes en una base de investigación análoga. Se administró la batería de pruebas cognitivas 'CogniFit' semanalmente para medir 12 dominios cognitivos. Los resultados se compararon con mediciones de línea base y se analizaron mediante un modelo de medidas repetidas.",
+    "Frase de resumen": "El aislamiento prolongado ralentiza el pensamiento y la memoria a corto plazo, pero no afecta la capacidad de resolver problemas complejos.",
+    "link artículo —": "https://doi.org/10.1121/spacepsych.2020.004",
+    "glosario de términos": {
+      "psicología espacial": "Estudio de cómo los viajes espaciales afectan la mente y el comportamiento de los astronautas.",
+      "aislamiento": "Estado de estar separado de otras personas o del entorno habitual.",
+      "rendimiento cognitivo": "Capacidad del cerebro para realizar tareas mentales como pensar, aprender y recordar."
+    },
+    "link a imagenes": "C:\\Users\\DOMI2\\Desktop\\KnowledgeEngine\\Nasa_Biology_Knowledge_Engine\\Nasa_KnowledgeEngine\\src\\assets\\FotoImage.jpg"
+  },
+  {
+    "título": "Regeneración de tejido hepático en microgravedad simulada",
+    "autor": "Dr. Leo Gómez",
+    "año de publicación": 2023,
+    "keywords": ["bioproducción", "tejido hepático", "microgravedad"],
+    "resultados": "Los esferoides de hepatocitos cultivados en un biorreactor de pared rotatoria (RWV) mostraron una mayor viabilidad y una función metabólica (producción de albúmina) un 40% superior en comparación con cultivos estáticos en 2D.",
+    "abstract": "La bioimpresión y la ingeniería de tejidos en el espacio ofrecen ventajas únicas debido a la ausencia de sedimentación. Este estudio explora el autoensamblaje y la función de los hepatocitos primarios humanos en un RWV. Los agregados 3D formados en microgravedad simulada exhibieron una estructura más organizada y una mayor expresión de marcadores funcionales hepáticos. Este enfoque podría ser un paso hacia la producción de órganos para trasplantes.",
+    "artículos relacionados —grafo": [
+      "Bioimpresión 3D de tejido cardíaco en la ISS",
+      "Cultivo de células madre en microgravedad"
+    ],
+    "hipótesis": "La microgravedad promueve el autoensamblaje de hepatocitos en estructuras 3D funcionalmente superiores a los cultivos 2D convencionales, mejorando la viabilidad y la función del tejido.",
+    "metodología": "Cultivo de hepatocitos primarios humanos en un Biorreactor de Vaso Giratorio (RWV) para simular la microgravedad. Se tomaron muestras a los 7, 14 y 21 días para evaluar la morfología (microscopía), viabilidad (ensayo MTT) y función (ensayo ELISA para albúmina). Los resultados se compararon con un cultivo monocapa estático.",
+    "Frase de resumen": "La falta de gravedad ayuda a las células del hígado a organizarse mejor y a funcionar de manera más eficiente en el laboratorio.",
+    "link artículo —": "https://doi.org/10.1314/bioprint.2023.005",
+    "glosario de términos": {
+      "bioproducción": "Producción de materiales biológicos complejos, como tejidos u órganos.",
+      "tejido hepático": "Tejido que forma el hígado, responsable de funciones metabólicas vitales.",
+      "microgravedad": "Entorno con una gravedad muy débil."
+    },
+    "link a imagenes": "C:\\Users\\DOMI2\\Desktop\\KnowledgeEngine\\Nasa_Biology_Knowledge_Engine\\Nasa_KnowledgeEngine\\src\\assets\\FotoImage.jpg"
+  },
+  {
+    "título": "La respuesta inmune de la tripulación durante misiones de corta duración",
+    "autor": "Dra. Elara Johnson",
+    "año de publicación": 2019,
+    "keywords": ["inmunología", "estrés", "vuelos espaciales"],
+    "resultados": "Se observó una disminución transitoria en la actividad de las células T y un aumento en los niveles de citoquinas proinflamatorias en la tripulación inmediatamente después de un vuelo espacial de 14 días.",
+    "abstract": "Las misiones espaciales, incluso las de corta duración, imponen un estrés fisiológico significativo. Este estudio analizó muestras de sangre de 8 astronautas antes y después de una misión del transbordador espacial. Los análisis de citometría de flujo revelaron una desregulación del sistema inmunitario, con una reactivación latente de virus como el Epstein-Barr en el 50% de los sujetos. La función inmune regresó a la normalidad 30 días después del aterrizaje.",
+    "artículos relacionados —grafo": [
+      "Impacto del cortisol en la función de los linfocitos",
+      "Reactivación viral en entornos de estrés extremo"
+    ],
+    "hipótesis": "El estrés agudo asociado con el lanzamiento, la microgravedad y el reingreso atmosférico causa una supresión temporal y reversible del sistema inmune adaptativo.",
+    "metodología": "Recolección de muestras de sangre periférica de los miembros de la tripulación en tres momentos: 30 días antes del lanzamiento (L-30), día del aterrizaje (R+0) y 30 días después (R+30). Se cuantificaron las subpoblaciones de linfocitos (CD4+, CD8+) y los niveles séricos de cortisol e interleucina-6 (IL-6).",
+    "Frase de resumen": "Los vuelos espaciales cortos provocan un debilitamiento temporal del sistema inmune debido al estrés.",
+    "link artículo —": "https://doi.org/10.1516/shortimmune.2019.006",
+    "glosario de términos": {
+      "inmunología": "Rama de la biología y la medicina que se ocupa del sistema inmunitario.",
+      "estrés": "Respuesta fisiológica del cuerpo a una demanda o desafío.",
+      "vuelos espaciales": "Viaje o transporte hacia o a través del espacio."
+    },
+    "link a imagenes": "C:\\Users\\DOMI2\\Desktop\\KnowledgeEngine\\Nasa_Biology_Knowledge_Engine\\Nasa_KnowledgeEngine\\src\\assets\\FotoImage.jpg"
+  },
+  {
+    "título": "Análisis de la atrofia muscular en ratones expuestos a la radiación",
+    "autor": "Dr. Juan Pérez",
+    "año de publicación": 2018,
+    "keywords": ["atrofia muscular", "radiación", "fisiología"],
+    "resultados": "Los ratones expuestos a dosis de radiación de protones similares a las de una misión a Marte mostraron una pérdida de masa muscular del 15% en el músculo sóleo y una disminución del 25% en la fuerza de agarre en comparación con el grupo de control.",
+    "abstract": "La atrofia muscular es un riesgo conocido de los vuelos espaciales, atribuido principalmente a la falta de uso en microgravedad. Este estudio investiga si la radiación espacial contribuye a este efecto. Se encontró que la radiación induce estrés oxidativo en las fibras musculares, activando vías de degradación de proteínas como la ubiquitina-proteasoma. Estos hallazgos sugieren que la radiación es un factor de riesgo independiente para la salud muscular.",
+    "artículos relacionados —grafo": [
+      "Contramedidas de ejercicio para la atrofia muscular",
+      "Estrés oxidativo y envejecimiento celular"
+    ],
+    "hipótesis": "La exposición a la radiación de partículas cargadas exacerba la atrofia muscular al inducir daño celular y activar las vías catabólicas en el tejido musculoesquelético.",
+    "metodología": "Un grupo de 20 ratones C57BL/6 fue irradiado con un haz de protones de 1 Gy. Se midió la masa muscular, el tamaño de las fibras (tinción de histología) y la fuerza de agarre de las extremidades durante 90 días. Se realizaron análisis de Western blot para evaluar los marcadores de la vía de la ubiquitina.",
+    "Frase de resumen": "La radiación espacial no solo es peligrosa por sí misma, sino que también acelera la pérdida de músculo.",
+    "link artículo —": "https://doi.org/10.1718/muscleatrophy.2018.007",
+    "glosario de términos": {
+      "atrofia muscular": "Disminución del tamaño del músculo, que puede ser causada por la inactividad, la desnutrición o ciertas enfermedades.",
+      "radiación": "Emisión de energía en forma de ondas o partículas.",
+      "fisiología": "Estudio científico de las funciones y mecanismos en un sistema vivo."
+    },
+    "link a imagenes": "C:\\Users\\DOMI2\\Desktop\\KnowledgeEngine\\Nasa_Biology_Knowledge_Engine\\Nasa_KnowledgeEngine\\src\\assets\\FotoImage.jpg"
+  },
+  {
+    "título": "Cultivo de algas para la producción de oxígeno y alimentos en el espacio",
+    "autor": "Dra. Mei Lin",
+    "año de publicación": 2020,
+    "keywords": ["algas", "oxígeno", "sistemas de soporte vital"],
+    "resultados": "Un fotobiorreactor de 10 litros con Chlorella vulgaris demostró una producción estable de 500 litros de oxígeno por día y 100 gramos de biomasa seca rica en proteínas, suficiente para complementar la dieta y el soporte vital de un astronauta.",
+    "abstract": "Los Sistemas de Soporte Vital Bioregenerativos (BLSS) son clave para misiones de larga duración. Este artículo describe el diseño y prueba de un fotobiorreactor de membrana para el cultivo de microalgas en un sistema de circuito cerrado. El sistema logró una eficiencia de conversión fotosintética del 8% bajo iluminación LED optimizada. La biomasa cosechada contenía un 55% de proteína, lo que la convierte en un suplemento alimenticio viable.",
+    "artículos relacionados —grafo": [
+      "Diseño de sistemas de soporte vital de circuito cerrado",
+      "Cultivo hidropónico de vegetales en la ISS"
+    ],
+    "hipótesis": "Es factible diseñar un fotobiorreactor compacto y eficiente que utilice microalgas para satisfacer simultáneamente las necesidades de producción de oxígeno y suplementos alimenticios de un miembro de la tripulación en el espacio.",
+    "metodología": "Construcción y operación de un prototipo de fotobiorreactor. Se monitorearon continuamente los niveles de O2 y CO2 en la salida de gas. La densidad del cultivo de algas se mantuvo mediante una bomba peristáltica que cosechaba biomasa de forma regular. Se realizaron análisis nutricionales de la biomasa liofilizada.",
+    "Frase de resumen": "Un tanque de algas puede proporcionar el aire que un astronauta respira y parte de la comida que necesita.",
+    "link artículo —": "https://doi.org/10.1920/algaelife.2020.008",
+    "glosario de términos": {
+      "algas": "Grupo diverso de organismos acuáticos fotosintéticos.",
+      "oxígeno": "Elemento químico esencial para la respiración de la mayoría de los seres vivos.",
+      "sistemas de soporte vital": "Conjunto de tecnologías que permiten a un ser humano sobrevivir en un entorno hostil, como el espacio."
+    },
+    "link a imagenes": "C:\\Users\\DOMI2\\Desktop\\KnowledgeEngine\\Nasa_Biology_Knowledge_Engine\\Nasa_KnowledgeEngine\\src\\assets\\FotoImage.jpg"
+  },
+  {
+    "título": "Detección de patógenos en el entorno de la Estación Espacial Internacional",
+    "autor": "Dr. Carlos Rodríguez",
+    "año de publicación": 2022,
+    "keywords": ["microbiología", "patógenos", "ISS"],
+    "resultados": "Se identificaron múltiples especies de bacterias y hongos en superficies de la ISS, incluyendo Staphylococcus aureus y Aspergillus fumigatus. El análisis genómico reveló que algunas cepas presentaban genes de resistencia a antibióticos.",
+    "abstract": "El entorno cerrado de la Estación Espacial Internacional (ISS) puede promover la acumulación y proliferación de microorganismos potencialmente dañinos. Este estudio utilizó técnicas de muestreo por hisopo y secuenciación metagenómica para caracterizar la comunidad microbiana en varios módulos de la estación. Aunque la mayoría de los microbios identificados son comensales humanos inofensivos, la presencia de patógenos oportunistas con marcadores de resistencia subraya la importancia de un monitoreo microbiológico continuo.",
+    "artículos relacionados —grafo": [
+      "El microbioma de la piel de los astronautas",
+      "Formación de biopelículas en microgravedad"
+    ],
+    "hipótesis": "El entorno único de la ISS selecciona poblaciones microbianas específicas, incluyendo patógenos oportunistas que pueden presentar un riesgo para la salud de la tripulación a largo plazo.",
+    "metodología": "Recolección de 50 muestras de superficies y aire dentro de los módulos Columbus, Harmony y Destiny de la ISS. El ADN total fue extraído y analizado mediante secuenciación de escopeta (shotgun sequencing) para identificar las especies presentes y sus perfiles de resistencia a antimicrobianos.",
+    "Frase de resumen": "La Estación Espacial tiene su propia 'fauna' de microbios, algunos de los cuales son resistentes a los medicamentos.",
+    "link artículo —": "https://doi.org/10.2122/isspathogens.2022.009",
+    "glosario de términos": {
+      "microbiología": "Estudio de los microorganismos.",
+      "patógenos": "Agente biológico que causa enfermedad o dolencia a su huésped.",
+      "ISS": "Acrónimo de Estación Espacial Internacional (International Space Station)."
+    },
+    "link a imagenes": "C:\\Users\\DOMI2\\Desktop\\KnowledgeEngine\\Nasa_Biology_Knowledge_Engine\\Nasa_KnowledgeEngine\\src\\assets\\FotoImage.jpg"
+  },
+  {
+    "título": "Efectos a largo plazo de los vuelos espaciales en el sistema cardiovascular",
+    "autor": "Dra. Eva Braun",
+    "año de publicación": 2017,
+    "keywords": ["salud cardiovascular", "vuelos espaciales", "corazón"],
+    "resultados": "Un estudio retrospectivo de astronautas jubilados mostró un engrosamiento de la pared arterial carotídea y una mayor rigidez arterial en comparación con un grupo de control de edad similar, sugiriendo un envejecimiento cardiovascular acelerado.",
+    "abstract": "Los efectos agudos de los vuelos espaciales en el sistema cardiovascular, como el descondicionamiento, están bien documentados. Sin embargo, los riesgos a largo plazo son menos conocidos. Este estudio comparó ecocardiogramas y mediciones de la velocidad de la onda de pulso de 50 astronautas retirados con 50 sujetos de control. Los resultados indican cambios estructurales y funcionales persistentes en el sistema cardiovascular, incluso años después de la última misión.",
+    "artículos relacionados —grafo": [
+      "Intolerancia ortostática después de vuelos espaciales",
+      "El impacto de la radiación en la salud endotelial"
+    ],
+    "hipótesis": "La exposición acumulada a la microgravedad y la radiación espacial induce cambios duraderos en el sistema cardiovascular que equivalen a un envejecimiento vascular prematuro.",
+    "metodología": "Estudio de cohorte retrospectivo. Se accedió a los registros médicos de astronautas retirados de la NASA. Se realizaron mediciones no invasivas de la estructura y función vascular, incluyendo ultrasonido de la arteria carótida y tonometría de aplanamiento para medir la rigidez aórtica. Los datos se ajustaron por edad, sexo y factores de riesgo cardiovascular.",
+    "Frase de resumen": "Los viajes espaciales pueden envejecer prematuramente el corazón y las arterias de los astronautas.",
+    "link artículo —": "https://doi.org/10.2324/cardiohealth.2017.010",
+    "glosario de términos": {
+      "salud cardiovascular": "Estado del corazón y los vasos sanguíneos.",
+      "vuelos espaciales": "Viaje o transporte a través del espacio.",
+      "corazón": "Órgano muscular que bombea sangre a través del sistema circulatorio."
+    },
+    "link a imagenes": "C:\\Users\\DOMI2\\Desktop\\KnowledgeEngine\\Nasa_Biology_Knowledge_Engine\\Nasa_KnowledgeEngine\\src\\assets\\FotoImage.jpg"
+  },
+  {
+    "título": "Impacto de los viajes espaciales en la visión de los astronautas",
+    "autor": "Dr. Michael Green",
+    "año de publicación": 2023,
+    "keywords": ["visión", "salud", "microgravedad"],
+    "resultados": "El 60% de los astronautas en misiones de larga duración desarrollaron edema del disco óptico y pliegues coroideos, consistentes con el síndrome neuro-ocular asociado a los vuelos espaciales (SANS). Los cambios persistieron durante más de un año después del regreso.",
+    "abstract": "El SANS es un riesgo significativo para la salud de los astronautas. Este estudio utilizó tomografía de coherencia óptica (OCT) y resonancia magnética (MRI) para monitorear los cambios oculares y cerebrales en 20 astronautas. Se observó un aplanamiento del globo ocular posterior y un aumento del volumen del líquido cefalorraquídeo en la vaina del nervio óptico, lo que sugiere que los desplazamientos de fluidos hacia la cabeza en microgravedad son un mecanismo causal clave.",
+    "artículos relacionados —grafo": [
+      "Presión intracraneal en microgravedad simulada",
+      "Dinámica del líquido cefalorraquídeo en el espacio"
+    ],
+    "hipótesis": "La redistribución de fluidos corporales hacia la cabeza en microgravedad aumenta la presión intracraneal, lo que provoca cambios estructurales en el nervio óptico y el globo ocular, resultando en el SANS.",
+    "metodología": "Estudio prospectivo y longitudinal. Se realizaron mediciones de OCT, ecografías oculares y resonancias magnéticas cerebrales antes del vuelo, durante la misión (en la ISS) y en varios puntos después del regreso a la Tierra. Los datos se correlacionaron con los cambios en la agudeza visual de los astronautas.",
+    "Frase de resumen": "Estar en el espacio puede dañar la vista de los astronautas al aumentar la presión dentro del cráneo.",
+    "link artículo —": "https://doi.org/10.2526/spacevision.2023.011",
+    "glosario de términos": {
+      "visión": "Capacidad de interpretar el entorno gracias a la luz que alcanza los ojos.",
+      "salud": "Estado de completo bienestar físico, mental y social.",
+      "microgravedad": "Condición de gravedad casi nula."
+    },
+    "link a imagenes": "C:\\Users\\DOMI2\\Desktop\\KnowledgeEngine\\Nasa_Biology_Knowledge_Engine\\Nasa_KnowledgeEngine\\src\\assets\\FotoImage.jpg"
+  },
+  {
+    "título": "Impacto de las fluctuaciones de la gravedad en la división celular",
+    "autor": "Dra. Laura Díaz",
+    "año de publicación": 2024,
+    "keywords": ["división celular", "gravedad", "biología celular"],
+    "resultados": "Las células de levadura expuestas a ciclos de hipergravedad (2g) y microgravedad simulada mostraron un aumento del 30% en los errores de segregación cromosómica y una detención del ciclo celular en la fase G2/M en comparación con el control a 1g.",
+    "abstract": "La división celular es fundamental para la vida, pero se sabe poco sobre cómo responde a los cambios de gravedad. Utilizando un centrifugador de gran diámetro, se sometieron cultivos de Saccharomyces cerevisiae a perfiles de gravedad variable. La microscopía de fluorescencia en vivo reveló defectos en la formación del huso mitótico y una activación del punto de control del ciclo celular. Esto indica que la maquinaria de división celular es sensible a las fuerzas mecánicas.",
+    "artículos relacionados —grafo": [
+      "El papel del citoesqueleto en la mecanotransducción",
+      "Reparación del ADN en condiciones de estrés gravitacional"
+    ],
+    "hipótesis": "Las fluctuaciones en la fuerza de la gravedad interfieren con la correcta formación y función del huso mitótico, lo que lleva a errores en la segregación de los cromosomas durante la mitosis.",
+    "metodología": "Cultivos sincronizados de levadura (S. cerevisiae) con proteínas del huso mitótico marcadas con GFP fueron colocados en un centrifugador programable. Se capturaron imágenes en tiempo real para observar la dinámica del huso durante la mitosis bajo condiciones de 1g (control), 2g constante y ciclos de 2g/microgravedad.",
+    "Frase de resumen": "Los cambios de gravedad pueden hacer que las células cometan errores al dividirse, afectando la distribución de su material genético.",
+    "link artículo —": "https://doi.org/10.2728/cellgravity.2024.012",
+    "glosario de términos": {
+      "división celular": "Proceso por el cual una célula madre se divide para formar dos o más células hijas.",
+      "gravedad": "Fuerza que atrae un cuerpo hacia el centro de la Tierra, o hacia cualquier otro cuerpo físico que tenga masa.",
+      "biología celular": "Estudio de las células en lo que respecta a sus propiedades, estructura, funciones y orgánulos."
+    },
+    "link a imagenes": "C:\\Users\\DOMI2\\Desktop\\KnowledgeEngine\\Nasa_Biology_Knowledge_Engine\\Nasa_KnowledgeEngine\\src\\assets\\FotoImage.jpg"
+  },
+  {
+    "título": "Desarrollo de sensores para monitorear la calidad del aire",
+    "autor": "Dra. Mei Lee",
+    "año de publicación": 2021,
+    "keywords": ["calidad del aire", "sensores", "hábitats"],
+    "resultados": "Se desarrolló un nuevo sensor de óxido metálico nanoestructurado que demostró una sensibilidad 10 veces mayor para detectar amoníaco y formaldehído a niveles de partes por billón (ppb) en comparación con los sensores actuales de la ISS.",
+    "abstract": "En los hábitats espaciales cerrados, la acumulación de compuestos orgánicos volátiles (COV) es una amenaza para la salud. Este trabajo presenta el diseño y la caracterización de un sensor químico basado en nanotubos de óxido de tungsteno. El sensor muestra una alta selectividad y una respuesta rápida a temperatura ambiente, eliminando la necesidad de calentadores de alta potencia y reduciendo el consumo de energía del sistema de monitoreo de la calidad del aire.",
+    "artículos relacionados —grafo": [
+      "Fotocatálisis para la purificación del aire en naves espaciales",
+      "Impacto de los COV en la salud de la tripulación"
+    ],
+    "hipótesis": "La nanoestructuración de materiales semiconductores de óxido metálico puede mejorar drásticamente la sensibilidad y selectividad de los sensores de gas para monitorear contaminantes del aire en hábitats espaciales.",
+    "metodología": "Síntesis de nanotubos de WO3 mediante un proceso hidrotérmico. Caracterización del material mediante microscopía electrónica de barrido (SEM) y difracción de rayos X (XRD). Fabricación de un dispositivo sensor en un sustrato de silicio y prueba de su respuesta a diversas concentraciones de COV en una cámara de gas controlada.",
+    "Frase de resumen": "Un nuevo sensor basado en nanotubos puede detectar contaminantes peligrosos en el aire de las naves espaciales con mucha más precisión.",
+    "link artículo —": "https://doi.org/10.2930/airsensor.2021.013",
+    "glosario de términos": {
+      "calidad del aire": "Medida de cuán limpio o contaminado está el aire.",
+      "sensores": "Dispositivo que detecta o mide un estímulo físico y lo convierte en una señal.",
+      "hábitats": "Lugar de condiciones apropiadas para que viva un organismo, especie o comunidad animal o vegetal."
+    },
+    "link a imagenes": "C:\\Users\\DOMI2\\Desktop\\KnowledgeEngine\\Nasa_Biology_Knowledge_Engine\\Nasa_KnowledgeEngine\\src\\assets\\FotoImage.jpg"
+  },
+  {
+    "título": "Impacto de la luz LED en el crecimiento de plantas comestibles",
+    "autor": "Dr. Ben Carter",
+    "año de publicación": 2023,
+    "keywords": ["luz LED", "plantas comestibles", "fotobiología"],
+    "resultados": "Una proporción de luz roja a azul de 4:1 resultó en un aumento del 25% en la biomasa de la lechuga (Lactuca sativa) y un mayor contenido de antioxidantes en comparación con la luz blanca de espectro completo.",
+    "abstract": "Optimizar la producción de alimentos en el espacio requiere maximizar la eficiencia del crecimiento de las plantas bajo iluminación artificial. Este estudio evaluó el crecimiento, la fotosíntesis y el valor nutricional de la lechuga cultivada en la cámara 'Veggie' de la ISS bajo diferentes espectros de luz LED. Los resultados muestran que las plantas no necesitan todo el espectro solar; una combinación específica de longitudes de onda puede mejorar el rendimiento y la calidad, ahorrando energía.",
+    "artículos relacionados —grafo": [
+      "Cultivo de rábanos en la Estación Espacial Internacional",
+      "Efectos de la luz UV en la producción de vitaminas en las plantas"
+    ],
+    "hipótesis": "La modulación del espectro de luz LED, específicamente la proporción de luz roja a azul, puede optimizar la tasa de crecimiento y mejorar el perfil nutricional de las plantas comestibles cultivadas en microgravedad.",
+    "metodología": "Experimento realizado a bordo de la ISS. Se cultivaron tres lotes de lechuga de la variedad 'Outredgeous' en el sistema Veggie. Cada lote fue iluminado con un espectro LED diferente: luz blanca, solo luz roja/azul (proporción 4:1) y solo luz roja/azul (proporción 1:1). Se midió la biomasa, la tasa de fotosíntesis y el contenido de antocianinas.",
+    "Frase de resumen": "Usar la mezcla correcta de luces LED rojas y azules hace que las lechugas espaciales crezcan más grandes y nutritivas.",
+    "link artículo —": "https://doi.org/10.3132/ledplants.2023.014",
+    "glosario de términos": {
+      "luz LED": "Diodo emisor de luz, una fuente de luz de bajo consumo energético.",
+      "plantas comestibles": "Plantas que son seguras para el consumo humano.",
+      "fotobiología": "Estudio de las interacciones de la luz con los seres vivos."
+    },
+    "link a imagenes": "C:\\Users\\DOMI2\\Desktop\\KnowledgeEngine\\Nasa_Biology_Knowledge_Engine\\Nasa_KnowledgeEngine\\src\\assets\\FotoImage.jpg"
+  },
+  {
+    "título": "El impacto del aislamiento social en el sueño de los astronautas",
+    "autor": "Dra. Camila Santos",
+    "año de publicación": 2022,
+    "keywords": ["sueño", "psicología", "aislamiento"],
+    "resultados": "Los datos de actigrafía de una misión análoga de 45 días mostraron una disminución en la eficiencia del sueño y un aumento de la latencia del sueño a medida que avanzaba la misión. Los informes subjetivos se correlacionaron con un aumento de los sentimientos de soledad.",
+    "abstract": "El sueño es vital para el rendimiento cognitivo y la salud, pero a menudo se ve afectado en las misiones espaciales. Este estudio investigó la relación entre el aislamiento social percibido y la calidad objetiva del sueño en la misión análoga HERA. Se encontró que, aunque la duración total del sueño se mantuvo, su calidad se deterioró progresivamente. Los individuos con mayor resiliencia psicológica mostraron un menor deterioro del sueño, lo que sugiere un objetivo para las intervenciones.",
+    "artículos relacionados —grafo": [
+      "Uso de la terapia de luz para regular los ritmos circadianos",
+      "Rendimiento cognitivo y privación del sueño"
+    ],
+    "hipótesis": "Un mayor grado de aislamiento social percibido durante una misión de confinamiento prolongado se correlaciona negativamente con la calidad y la eficiencia del sueño.",
+    "metodología": "Cuatro tripulantes participaron en una misión de 45 días en el hábitat HERA. La calidad del sueño se midió continuamente mediante relojes de actigrafía. Semanalmente, los participantes completaron la Escala de Soledad de UCLA y el Índice de Calidad del Sueño de Pittsburgh (PSQI) para evaluar su estado psicológico y la percepción subjetiva del sueño.",
+    "Frase de resumen": "Sentirse solo en una misión larga y aislada dificulta que los astronautas duerman bien, aunque duerman las mismas horas.",
+    "link artículo —": "https://doi.org/10.3334/sleepiso.2022.015",
+    "glosario de términos": {
+      "sueño": "Estado de reposo caracterizado por niveles bajos de actividad fisiológica y conciencia reducida.",
+      "psicología": "Ciencia que estudia los procesos mentales, las sensaciones, las percepciones y el comportamiento del ser humano.",
+      "aislamiento": "Condición de estar separado de los demás."
+    },
+    "link a imagenes": "C:\\Users\\DOMI2\\Desktop\\KnowledgeEngine\\Nasa_Biology_Knowledge_Engine\\Nasa_KnowledgeEngine\\src\\assets\\FotoImage.jpg"
+  },
+  {
+    "título": "La respuesta de los líquenes a las condiciones del espacio exterior",
+    "autor": "Dr. Alan Green",
+    "año de publicación": 2017,
+    "keywords": ["líquenes", "panspermia", "exobiología"],
+    "resultados": "El liquen Circinaria gyrosa, expuesto durante 18 meses a las condiciones del espacio exterior en la plataforma EXPOSE-R, sobrevivió al vacío y a las fluctuaciones de temperatura. La exposición a la radiación UV solar completa fue el factor más dañino, pero los especímenes protegidos mostraron una recuperación fotosintética casi completa.",
+    "abstract": "Los líquenes son organismos extremófilos que podrían servir como modelo para los límites de la vida. Este experimento probó la resistencia de C. gyrosa a las duras condiciones del espacio. Se evaluó la viabilidad, el daño en el ADN y la actividad fotosintética después del vuelo. Los resultados demuestran una asombrosa capacidad de supervivencia, especialmente cuando se protege de la radiación UV, lo que apoya la hipótesis de la lito-panspermia.",
+    "artículos relacionados —grafo": [
+      "Supervivencia de tardígrados en el vacío espacial",
+      "Análisis de meteoritos orgánicos"
+    ],
+    "hipótesis": "Los líquenes pueden sobrevivir a una exposición prolongada al entorno del espacio exterior (vacío, temperaturas extremas y radiación), lo que los convierte en candidatos viables para la transferencia interplanetaria de vida.",
+    "metodología": "Muestras secas del liquen C. gyrosa se colocaron en la plataforma experimental EXPOSE-R fuera del módulo Zvezda de la ISS. Un grupo fue expuesto a todas las condiciones espaciales, mientras que otro fue protegido de la radiación UV solar mediante filtros ópticos. Tras su regreso a la Tierra, se rehidrataron y se analizó su viabilidad mediante microscopía confocal y mediciones de fluorescencia de clorofila.",
+    "Frase de resumen": "Ciertos líquenes son tan resistentes que pueden sobrevivir en el espacio exterior si se les protege de la luz solar directa.",
+    "link artículo —": "https://doi.org/10.3536/lichenspace.2017.016",
+    "glosario de términos": {
+      "líquenes": "Organismos complejos formados por la simbiosis entre un hongo y un alga o cianobacteria.",
+      "panspermia": "Hipótesis que propone que la vida existe en todo el Universo y se propaga a través del espacio.",
+      "exobiología": "Estudio del origen, evolución, distribución y futuro de la vida en el universo, también conocida como astrobiología."
+    },
+    "link a imagenes": "C:\\Users\\DOMI2\\Desktop\\KnowledgeEngine\\Nasa_Biology_Knowledge_Engine\\Nasa_KnowledgeEngine\\src\\assets\\FotoImage.jpg"
+  },
+  {
+    "título": "Análisis de los sistemas de purificación de agua a bordo de la ISS",
+    "autor": "Dra. Jessica Lee",
+    "año de publicación": 2019,
+    "keywords": ["purificación de agua", "sistemas de soporte vital", "ISS"],
+    "resultados": "El Sistema de Procesamiento de Agua (WPA) de la ISS recupera el 93% del agua a partir de orina y condensado. Sin embargo, se detectó la formación de biopelículas en los tubos del sistema, lo que requiere un mantenimiento más frecuente y la optimización de los biocidas utilizados.",
+    "abstract": "El reciclaje de agua es fundamental para la sostenibilidad de las misiones espaciales. Este estudio realiza un análisis de rendimiento del WPA durante un período de cinco años, utilizando datos de telemetría y análisis de muestras de agua devueltas a la Tierra. Si bien la eficiencia de recuperación es alta, la gestión de la carga biológica sigue siendo un desafío. Se evaluaron nuevos filtros de yodo y se comparó su eficacia para prevenir el crecimiento microbiano.",
+    "artículos relacionados —grafo": [
+      "Generación de oxígeno a partir de agua en la ISS",
+      "El desafío del yodo residual en el agua potable reciclada"
+    ],
+    "hipótesis": "El rendimiento a largo plazo del sistema de purificación de agua de la ISS se ve limitado principalmente por la acumulación de biopelículas, lo que requiere mejoras en las estrategias de desinfección.",
+    "metodología": "Análisis retrospectivo de los datos de mantenimiento y calidad del agua del WPA de la ISS desde 2014 hasta 2019. Se utilizaron técnicas de microscopía electrónica para analizar secciones de tuberías y filtros reemplazados. Se realizaron cultivos microbianos de las muestras de agua para identificar las especies formadoras de biopelículas.",
+    "Frase de resumen": "El sistema de reciclaje de agua de la estación espacial funciona muy bien, pero lucha contra la acumulación de 'sarro' microbiano en sus tuberías.",
+    "link artículo —": "https://doi.org/10.3738/wateriss.2019.017",
+    "glosario de términos": {
+      "purificación de agua": "Proceso de eliminación de contaminantes químicos, biológicos y radiológicos del agua.",
+      "sistemas de soporte vital": "Tecnologías que permiten la supervivencia humana en entornos hostiles.",
+      "ISS": "Estación Espacial Internacional."
+    },
+    "link a imagenes": "C:\\Users\\DOMI2\\Desktop\\KnowledgeEngine\\Nasa_Biology_Knowledge_Engine\\Nasa_KnowledgeEngine\\src\\assets\\FotoImage.jpg"
+  },
+  {
+    "título": "Diseño de un biorreactor para la producción de medicamentos en el espacio",
+    "autor": "Dr. Robert Smith",
+    "año de publicación": 2024,
+    "keywords": ["biorreactor", "farmacéutica", "biotecnología"],
+    "resultados": "Se diseñó y probó con éxito un prototipo de biorreactor de perfusión automatizado de 100 ml. El sistema mantuvo un cultivo de células CHO productoras de un anticuerpo monoclonal con una viabilidad superior al 95% durante 28 días en condiciones de microgravedad simulada.",
+    "abstract": "La producción de productos farmacéuticos bajo demanda es una capacidad deseable para futuras misiones a Marte. Este artículo detalla el diseño de un biorreactor compacto y automatizado para el cultivo de células de mamífero. El sistema utiliza un andamio de fibra hueca para la perfusión de medios y la recolección de productos, superando los desafíos de la separación de fases en microgravedad. Las pruebas en tierra demuestran su robustez y fiabilidad.",
+    "artículos relacionados —grafo": [
+      "Cristalización de proteínas en microgravedad para el diseño de fármacos",
+      "Estabilidad de productos farmacéuticos en el espacio"
+    ],
+    "hipótesis": "Un biorreactor de fibra hueca puede mantener cultivos celulares de alta densidad y producir proteínas terapéuticas de manera eficiente en el entorno de microgravedad, permitiendo la farmacia 'a bordo'.",
+    "metodología": "Diseño asistido por ordenador (CAD) y fabricación aditiva (impresión 3D) del cuerpo del biorreactor. Integración de sensores de pH, oxígeno disuelto y bombas peristálticas en miniatura controladas por un microcontrolador. El sistema se probó en un clinostato para simular la microgravedad, utilizando una línea celular de ovario de hámster chino (CHO) genéticamente modificada.",
+    "Frase de resumen": "Se ha creado una 'mini-fábrica' automatizada para producir medicamentos en el espacio usando células vivas.",
+    "link artículo —": "https://doi.org/10.3940/bioreactor.2024.018",
+    "glosario de términos": {
+      "biorreactor": "Dispositivo que soporta un ambiente biológicamente activo para el cultivo de células o tejidos.",
+      "farmacéutica": "Relacionado con la preparación, uso o venta de medicamentos.",
+      "biotecnología": "Uso de sistemas vivos y organismos para desarrollar o fabricar productos."
+    },
+    "link a imagenes": "C:\\Users\\DOMI2\\Desktop\\KnowledgeEngine\\Nasa_Biology_Knowledge_Engine\\Nasa_KnowledgeEngine\\src\\assets\\FotoImage.jpg"
+  },
+  {
+    "título": "Efecto de la microgravedad en el sistema nervioso central y la función cerebral",
+    "autor": "Dr. Ethan Hall",
+    "año de publicación": 2020,
+    "keywords": ["neurociencia", "cerebro", "microgravedad"],
+    "resultados": "Los astronautas mostraron cambios en la conectividad funcional de la corteza sensoriomotora después de vuelos espaciales, como se midió con fMRI en estado de reposo. Además, se observó un desplazamiento hacia arriba del cerebro dentro del cráneo.",
+    "abstract": "El cerebro se adapta a la ausencia de información gravitacional. Este estudio utilizó neuroimagen multimodal para investigar los cambios estructurales y funcionales en el cerebro de los astronautas. Los resultados de la fMRI sugieren una reorganización de las redes neuronales implicadas en el procesamiento motor y vestibular. Los cambios estructurales, como el desplazamiento del cerebro y el estrechamiento de los surcos corticales, pueden estar relacionados con los cambios de fluidos.",
+    "artículos relacionados —grafo": [
+      "Adaptación del sistema vestibular a la microgravedad",
+      "Impacto de los viajes espaciales en la visión de los astronautas (SANS)"
+    ],
+    "hipótesis": "La microgravedad induce neuroplasticidad en las regiones del cerebro responsables de la orientación espacial y el control motor, y causa cambios anatómicos debido a la redistribución de los fluidos cefalorraquídeos.",
+    "metodología": "Se realizaron escáneres de resonancia magnética estructural y funcional (fMRI) en 15 astronautas antes y después de una misión de 6 meses en la ISS. Se analizaron los datos de conectividad en estado de reposo y se utilizaron técnicas de morfometría basada en vóxeles para cuantificar los cambios en la estructura cerebral.",
+    "Frase de resumen": "El cerebro de los astronautas se 'recablea' para adaptarse a la vida sin gravedad y se desplaza físicamente dentro del cráneo.",
+    "link artículo —": "https://doi.org/10.4142/neurospace.2020.019",
+    "glosario de términos": {
+      "neurociencia": "Estudio científico del sistema nervioso.",
+      "cerebro": "Órgano complejo que sirve como centro del sistema nervioso en todos los vertebrados.",
+      "microgravedad": "Condición de gravedad casi nula."
+    },
+    "link a imagenes": "C:\\Users\\DOMI2\\Desktop\\KnowledgeEngine\\Nasa_Biology_Knowledge_Engine\\Nasa_KnowledgeEngine\\src\\assets\\FotoImage.jpg"
+  },
+  {
+    "título": "Evaluación de la salud de las semillas espaciales para la agricultura",
+    "autor": "Dr. Liam Jones",
+    "año de publicación": 2022,
+    "keywords": ["semillas", "salud", "agricultura"],
+    "resultados": "Las semillas de tomate (Solanum lycopersicum) que pasaron un año en la ISS mostraron una tasa de germinación un 10% menor y un aumento en la frecuencia de aberraciones cromosómicas en comparación con las semillas de control en la Tierra.",
+    "abstract": "El almacenamiento a largo plazo de semillas es crucial para futuras colonias espaciales y para la agricultura en la Tierra. Este estudio evaluó el impacto de la exposición al entorno espacial (radiación y microgravedad) en la viabilidad y estabilidad genética de las semillas. Aunque la mayoría de las semillas seguían siendo viables, el daño genético acumulado sugiere la necesidad de un blindaje adecuado para los bancos de semillas espaciales.",
+    "artículos relacionados —grafo": [
+      "Efectos de la radiación cósmica en el ADN",
+      "Cultivo de plantas en suelo lunar simulado"
+    ],
+    "hipótesis": "La exposición prolongada al entorno espacial compromete la salud de las semillas, reduciendo su tasa de germinación y aumentando la tasa de mutaciones genéticas.",
+    "metodología": "Un lote de semillas de tomate fue enviado a la ISS y almacenado durante un año. A su regreso, se comparó su tasa de germinación, la longitud de la radícula y la salud cromosómica (análisis de puntas de raíz) con un lote de control idéntico almacenado en la Tierra en condiciones controladas.",
+    "Frase de resumen": "Guardar semillas en el espacio durante mucho tiempo reduce su capacidad de germinar y puede dañar su ADN.",
+    "link artículo —": "https://doi.org/10.4344/spaceseeds.2022.020",
+    "glosario de términos": {
+      "semillas": "Óvulo fecundado y maduro de una planta que contiene el embrión y reservas de nutrientes.",
+      "salud": "Estado de bienestar o de equilibrio.",
+      "agricultura": "Conjunto de actividades económicas y técnicas relacionadas con el tratamiento del suelo y el cultivo de la tierra."
+    },
+    "link a imagenes": "C:\\Users\\DOMI2\\Desktop\\KnowledgeEngine\\Nasa_Biology_Knowledge_Engine\\Nasa_KnowledgeEngine\\src\\assets\\FotoImage.jpg"
+  }
+]
